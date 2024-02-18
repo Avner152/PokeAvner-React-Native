@@ -9,10 +9,25 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~3.1.1",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@rneui/base": "^4.0.0-rc.7",
+    "@rneui/themed": "^4.0.0-rc.8",
+    "axios": "^1.6.7",
     "expo": "~50.0.3",
+    "expo-font": "~11.10.2",
+    "expo-linear-gradient": "^12.7.1",
     "expo-status-bar": "~1.11.1",
+    "mobx": "^6.12.0",
+    "mobx-react": "^9.1.0",
+    "pokemontcgsdk": "^2.0.0",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-reanimated": "^3.7.0",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-web": "~0.19.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
